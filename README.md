@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/iamchrisim">
-    <img src="https://github.com/iamchrisim/iamchrisim/raw/main/hero.gif?sanitize=true" alt="Chris" width="600" />
+    <img src="https://github.com/iamchrisim/iamchrisim/raw/main/chris.gif?sanitize=true" alt="Chris" width="600" />
   </a>
 </div>
 
