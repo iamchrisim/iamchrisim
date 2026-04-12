@@ -24,7 +24,16 @@ AI Product Engineer and Full-Stack Developer
   <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="AI SDK"/>
   <img src="https://img.shields.io/badge/RAG-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/OpenWebUI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="OpenWebUI"/>
+  <img src="https://img.shields.io/badge/OpenWebUI-326CE5?style=for-the-badge&logo=openai&logoColor=white" alt="OpenWebUI"/>
+</p>
+
+### Frontend & CSS
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=white" alt="React-Native"/>
 </p>
 
 ### Backend & Infrastructure
@@ -48,7 +57,7 @@ AI Product Engineer and Full-Stack Developer
 ### Monitoring & Observatory
 <p align="center">
   <img src="https://img.shields.io/badge/Langfuse-1C3C3C?style=for-the-badge&logo=langfuse&logoColor=white" alt="Langfuse"/>
-  <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
 
 ---
