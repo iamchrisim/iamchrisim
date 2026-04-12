@@ -81,10 +81,24 @@ AI Product Engineer and Full-Stack Developer
 
 ---
 
-### Random dev quote
+## Contribution Snake Animation
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/iamchrisim/iamchrisim/output/github-contribution-grid-snake-dark.svg)
 
-### Profile views
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=iamchrisim&color=3B82F6&style=for-the-badge&label=Profile+views)
+---
+
+<div align="center">
+  
+  ### Random Dev Quote
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+  ### Profile Views
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=iamchrisim&color=3B82F6&style=for-the-badge&label=Profile+Views)
+
+</div>
