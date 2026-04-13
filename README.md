@@ -22,8 +22,8 @@ AI Product Engineer and Full-Stack Developer
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="AI SDK"/>
-  <img src="https://img.shields.io/badge/RAG-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="AI SDK"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.JS"/>
   <img src="https://img.shields.io/badge/OpenWebUI-326CE5?style=for-the-badge&logo=openai&logoColor=white" alt="OpenWebUI"/>
 </p>
 
