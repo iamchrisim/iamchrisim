@@ -8,9 +8,11 @@
 
 ## About me
 
-AI Product Engineer and Full-Stack Developer
+Product Engineer and Full-Stack Developer
 
-**I build software that solves actual user problems, not just code puzzles.** I design and build full-stack, cloud-native, and AI-powered products.
+*   **I build software that solves actual user problems, not just code puzzles.** 
+
+*   I design and build full-stack, cloud-native, and AI-powered products.
 
 *   Building self-healing, high-availability AI system infrastructure that bridges Enterprise Data and Generative AI.
 
