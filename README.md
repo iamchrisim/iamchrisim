@@ -10,9 +10,11 @@
 
 AI Product Engineer and Full-Stack Developer
 
+**I build software that solves actual user problems, not just code puzzles.** I design and build full-stack, cloud-native, and AI-powered products.
+
 *   Building self-healing, high-availability AI system infrastructure that bridges Enterprise Data and Generative AI.
 
-*   **Product Engineering** : from System Architecture to Front-end Visualization.
+*   **Product Engineering**: from System Architecture to Front-end Visualization.
 
 ---
 
@@ -75,9 +77,33 @@ AI Product Engineer and Full-Stack Developer
 
 ### 2. Edge AI Gateway `Private`
 
-> A lightweight, high-performance reverse proxy for AI API management. 
-> *   Reverse Engineered Routing reducing API costs by 90% via batching and caching. 
+> A lightweight, high-performance reverse proxy for AI API management.
+> *   Reverse Engineered Routing reducing API costs by 90% via batching and caching.
 > *   Protocol Compatibility allowing direct integration with OpenAI-native SDKs.
+
+### 3. [Agentic AI Platform with RAG](https://iamchrisim.io)
+
+> AI-powered mobile and web platform using advanced Retrieval-Augmented Generation and agentic workflows for healthcare applications.
+> *   **LangChain** + **React Native** + **AWS** for healthcare AI systems.
+> *   Advanced RAG architectures designed for UX and AX (Agent Experience).
+
+### 4. [Enterprise AI Agent Platform](https://iamchrisim.io)
+
+> Production AI platform with LangChain and LangGraph implementing multi-agent workflows and governance.
+> *   Multi-agent orchestration with human-in-the-loop interactions.
+> *   Built with **LangChain**, **LangGraph**, **TypeScript**, and **AWS**.
+
+### 5. [Cloud-Native Healthcare Platform](https://iamchrisim.io)
+
+> Full-stack healthcare application with secure data handling, HIPAA compliance, and scalable cloud infrastructure.
+> *   **React** + **Node.js** + **AWS** healthcare platform.
+> *   End-to-end security and compliance for regulated healthcare systems.
+
+### 6. [Skifall](https://github.com/iamchrisim/skifall)
+
+> A modern mobile-first skiing game built with TypeScript and HTML5 Canvas.
+> *   Touch controls, geometric sprites, global leaderboards via Supabase.
+> *   PWA support for offline play with **TypeScript**, **Canvas API**, and **Supabase**.
 
 ---
 
