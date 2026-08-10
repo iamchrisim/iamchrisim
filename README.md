@@ -123,6 +123,12 @@ Product Engineer and Full-Stack Developer
 > *   Publish blogs to IPFS for peer-to-peer distribution using .eth names as addresses.
 > *   Own your content with immutable IPFS hosting and portable ENS-based identities.
 
+### 8. [Awesome Blog React Router v8](https://github.com/iamchrisim/awesome-blog-react-router-v8)
+
+> A clean, secure documentation viewer built with React Router v8 and the Hermes design system.
+> *   Raw HTML rendering with server-side sanitization using DOMPurify for XSS protection.
+> *   Built with **React Router v8**, **TypeScript**, **Tailwind CSS v4**, and **Vite**.
+
 ---
 
 ## Contribution Snake Animation
