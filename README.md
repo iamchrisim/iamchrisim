@@ -58,6 +58,16 @@ Product Engineer and Full-Stack Developer
   <img src="https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect"/>
 </p>
 
+### Web3 & Blockchain
+<p align="center">
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3"/>
+  <img src="https://img.shields.io/badge/ENS-5289FF?style=for-the-badge&logo=ethereum&logoColor=white" alt="ENS"/>
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
+  <img src="https://img.shields.io/badge/RainbowKit-000000?style=for-the-badge&logo=rainbow&logoColor=white" alt="RainbowKit"/>
+  <img src="https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=wagmi&logoColor=white" alt="Wagmi"/>
+  <img src="https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=viem&logoColor=white" alt="Viem"/>
+</p>
+
 ### Monitoring & Observatory
 <p align="center">
   <img src="https://img.shields.io/badge/Langfuse-1C3C3C?style=for-the-badge&logo=langfuse&logoColor=white" alt="Langfuse"/>
@@ -106,6 +116,12 @@ Product Engineer and Full-Stack Developer
 > A modern mobile-first skiing game built with TypeScript and HTML5 Canvas.
 > *   Touch controls, geometric sprites, global leaderboards via Supabase.
 > *   PWA support for offline play with **TypeScript**, **Canvas API**, and **Supabase**.
+
+### 7. [Awesome Blog Web3](https://github.com/iamchrisim/awesome-blog-web3)
+
+> A decentralized blog platform publishing content to IPFS with ENS integration.
+> *   Publish blogs to IPFS for peer-to-peer distribution using .eth names as addresses.
+> *   Own your content with immutable IPFS hosting and portable ENS-based identities.
 
 ---
 
