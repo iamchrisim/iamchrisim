@@ -129,6 +129,12 @@ Product Engineer and Full-Stack Developer
 > *   Raw HTML rendering with server-side sanitization using DOMPurify for XSS protection.
 > *   Built with **React Router v8**, **TypeScript**, **Tailwind CSS v4**, and **Vite**.
 
+### 9. [Awesome Blog Remix](https://github.com/iamchrisim/awesome-blog-remix)
+
+> A clean, secure documentation viewer built with Remix 3 and the Hermes design system.
+> *   Raw HTML rendering with server-side sanitization using DOMPurify for XSS protection.
+> *   Built with **Remix 3**, **TypeScript**, **Tailwind CSS**, and **Node.js**.
+
 ---
 
 ## Contribution Snake Animation
